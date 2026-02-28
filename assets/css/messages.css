@@ -1,0 +1,60 @@
+.contentContainer {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.chunk {
+  background-color: white;
+  min-width: 600px;
+  min-height: 220px;
+  border-radius: 12px;
+  margin: 8px;
+  display: inline-block;
+  text-align: left;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.chunkTitle {
+  padding: 11px;
+  border-radius: 11px 11px 0 0;
+  background-color: rgb(0, 57, 90);
+  color: white;
+  font-weight: 700;
+  font-size: 22px;
+  text-align: center;
+}
+
+textarea {
+  padding: 8px 8px;
+  min-width: 600px;
+  max-width: 600px;
+  min-height: 100px;
+  resize: none;
+  bottom: 0px;
+  margin: 20px;
+}
+
+button {
+  width: 600px;
+  display: block;
+  padding: 10px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+  background-color: rgb(0, 57, 90);
+  color: white;
+  border: none;
+}
+button:hover {
+  background-color: rgb(2, 79, 124);
+}
+
+select {
+  width: 600px;
+  display: block;
+  padding: 10px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+  background-color: rgb(0, 57, 90);
+  color: white;
+  border: none;
+}
