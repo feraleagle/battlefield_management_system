@@ -51,7 +51,7 @@ Encrypted chain-of-command messaging — users can only message their direct sen
 ---
 
 ## 🗄️ Database Schema
-https://github.com/Muhammad-Hassan-Tariq/battlefield_management_system/blob/master/schema.svg
+![IMG_20260114_140556_768 (1)_1](https://github.com/Muhammad-Hassan-Tariq/battlefield_management_system/blob/master/schema.svg)
 
 Key tables:
 
